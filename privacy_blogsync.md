@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "Privacy Policy"
+title: "Dead Simple Blog Sync Privacy Policy"
 ---
  
-# Copy Blog Posts Privacy Policy
+# Dead Simple Blog Sync Privacy Policy
 
-Copy Blog Posts "the App” provides copying and updating of blog posts "the Service" to merchants who use Shopify to power their stores. This Privacy Policy describes how personal information is collected, used, and shared when you install or use the App in connection with your Shopify-supported store.
+Dead Simple Blog Sync "the App” provides copying and updating of blog posts "the Service" to merchants who use Shopify to power their stores. This Privacy Policy describes how personal information is collected, used, and shared when you install or use the App in connection with your Shopify-supported store.
 
 ## Personal Information the App Collects
 
@@ -21,19 +21,11 @@ We collect personal information directly from the relevant individual, through y
 
 ### How Do We Use Your Personal Information?
 
-We use the personal information we collect from you in order to provide the Service and to operate the App. Additionally, we use this personal information to: Optimize or improve the App; and Provide you with information or advertising relating to our products or services.
+We use the personal information we collect from you in order to provide the Service and to operate the App. Additionally, we use this personal information to: Optimize or improve the App; and Provide you with information relating to our products or services.
 
 ### Sharing Your Personal Information
 
 Finally, we may also share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.
-
-#### Behavioural Advertising
-As described above, we use your Personal Information to provide you with targeted advertisements or marketing communications we believe may be of interest to you. For more information about how targeted advertising works, you can visit the Network Advertising Initiative’s (“NAI”) educational page at http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work.
-
-You can opt out of targeted advertising by:
-- <a href="javascript:__gaTrackerOptout()">Clicking here to opt-out of Google Analytics</a>.
-
-Additionally, you can opt out of some of these services by visiting the Digital Advertising Alliance’s opt-out portal at: http://optout.aboutads.info/.
 
 ## Your Rights
 If you are a European resident, you have the right to access personal information we hold about you and to ask that your personal information be corrected, updated, or deleted. If you would like to exercise this right, please contact us through the contact information below.
@@ -47,4 +39,4 @@ After uninstalling the App, your sync and store data will immediately be removed
 We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons.
 
 ## Contact Us
-For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at support@aurnik.com.
+For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at support@deadsimple.studio.
